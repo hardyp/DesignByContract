@@ -9,6 +9,6 @@ The idea is to replicate the "Design By Contract" concept from EIFFEL inside ABA
 
 https://en.wikipedia.org/wiki/Design_by_contract
 
-This repository has a dependency on the ABAP Open Source Logger, but this repository contains a marker interface so hopefully APACK will take care of this dependencey when downloading the code via abapGit
+This repository has a dependency on the [ABAP Open Source Logger](https://github.com/ABAP-Logger/ABAP-Logger), but this repository contains a marker interface so hopefully APACK will take care of this dependencey when downloading the code via abapGit
 
 Naturally if you have any changes or improvements you would like to make please let me know.
